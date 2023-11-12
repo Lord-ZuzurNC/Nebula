@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/zuzur/Documents/GitHub/Nebula/root/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "1.0.0",
+    "name": "ZCMCS (Minecraft 1.20.1)",
+    "description": "ZCMCS Running Minecraft 1.20.1 (Forge v47.2.0)",
+    "icon": "ZCMCS.png",
+    "address": "minecraft.zcastle.nexus:25565",
+    "discord": {
+      "shortId": "1173245547210092584",
+      "largeImageText": "zcmcs",
+      "largeImageKey": "zcmcs"
+    },
+    "mainServer": true,
+    "autoconnect": true
+  },
+  "forge": {
+    "version": "47.2.0"
+  },
+  "untrackedFiles": []
+}

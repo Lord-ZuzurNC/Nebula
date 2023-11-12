@@ -1,0 +1,11 @@
+{
+  "$schema": "file:///C:/Users/zuzur/Documents/GitHub/Nebula/root/schemas/DistroMetaSchema.schema.json",
+  "meta": {
+    "rss": "<LINK TO RSS FEED>",
+    "discord": {
+      "clientId": "1173245547210092584",
+      "smallImageText": "zcmcs",
+      "smallImageKey": "zcmcs"
+    }
+  }
+}
