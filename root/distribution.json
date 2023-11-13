@@ -2,16 +2,16 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    "clientId": "1173245547210092584",
+    "smallImageText": "zcmcs",
+    "smallImageKey": "zcmcs"
   },
   "servers": [
     {
       "id": "ZCMCS-1.20.1",
       "name": "ZCMCS (Minecraft 1.20.1)",
       "description": "ZCMCS Running Minecraft 1.20.1 (Forge v47.2.0)",
-      "icon": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/ZCMCS.png",
+      "icon": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/ZCMCS.png",
       "version": "1.0.0",
       "address": "minecraft.zcastle.nexus:25565",
       "minecraftVersion": "1.20.1",
@@ -31,7 +31,7 @@
           "artifact": {
             "size": 7397,
             "MD5": "f538b3b9ad1668b3d92945741f841071",
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar"
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.2.0/lowcodelanguage-1.20.1-47.2.0.jar"
           },
           "subModules": [
             {
@@ -41,7 +41,7 @@
               "artifact": {
                 "size": 16542,
                 "MD5": "374162e774d7cf1b09af7af4d7805982",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/versions/1.20.1-forge-47.2.0/1.20.1-forge-47.2.0.json"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/versions/1.20.1-forge-47.2.0/1.20.1-forge-47.2.0.json"
               }
             },
             {
@@ -52,7 +52,7 @@
               "artifact": {
                 "size": 117589,
                 "MD5": "549205a1ba89e1c0735d9a46a338e715",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.2.0/fmlcore-1.20.1-47.2.0.jar"
               },
               "subModules": []
             },
@@ -64,7 +64,7 @@
               "artifact": {
                 "size": 16371,
                 "MD5": "ab1c94373972048884a363d08bd1720d",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.2.0/javafmllanguage-1.20.1-47.2.0.jar"
               },
               "subModules": []
             },
@@ -76,7 +76,7 @@
               "artifact": {
                 "size": 4996,
                 "MD5": "1bb13fed852f5088675101b9c6b538a0",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.2.0/mclanguage-1.20.1-47.2.0.jar"
               },
               "subModules": []
             },
@@ -88,7 +88,7 @@
               "artifact": {
                 "size": 2672123,
                 "MD5": "5902d79463abb7a3746c777c3919143e",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-universal.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-universal.jar"
               },
               "subModules": []
             },
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 4791112,
                 "MD5": "d805b1803123c683648f2e65dd98f3a8",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-client.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/forge/1.20.1-47.2.0/forge-1.20.1-47.2.0-client.jar"
               },
               "subModules": []
             },
@@ -112,7 +112,7 @@
               "artifact": {
                 "size": 18842082,
                 "MD5": "8bfacfba4f54cda741019756165c5ecf",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
               },
               "subModules": []
             },
@@ -124,7 +124,7 @@
               "artifact": {
                 "size": 12592249,
                 "MD5": "28edebec7b5a007bc9961ee9bab4d764",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
               },
               "subModules": []
             },
@@ -136,7 +136,7 @@
               "artifact": {
                 "size": 10436626,
                 "MD5": "da6bb1a2c23108392fd6c103da40867c",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
               },
               "subModules": []
             },
@@ -147,7 +147,7 @@
               "artifact": {
                 "size": 88749,
                 "MD5": "d9ff48d1c68388270388b803fa42611e",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
               }
             },
             {
@@ -157,7 +157,7 @@
               "artifact": {
                 "size": 121863,
                 "MD5": "29721ee4b5eacf0a34b204c345c8bc69",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/ow2/asm/asm/9.5/asm-9.5.jar"
               }
             },
             {
@@ -167,7 +167,7 @@
               "artifact": {
                 "size": 72209,
                 "MD5": "7d1fce986192f71722b19754e4cb9e61",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/ow2/asm/asm-commons/9.5/asm-commons-9.5.jar"
               }
             },
             {
@@ -177,7 +177,7 @@
               "artifact": {
                 "size": 51944,
                 "MD5": "44755681b7d6fa7143afbb438e55c20c",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/ow2/asm/asm-tree/9.5/asm-tree-9.5.jar"
               }
             },
             {
@@ -187,7 +187,7 @@
               "artifact": {
                 "size": 91076,
                 "MD5": "ad0016249fb68bb9196babefd47b80dc",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/ow2/asm/asm-util/9.5/asm-util-9.5.jar"
               }
             },
             {
@@ -197,7 +197,7 @@
               "artifact": {
                 "size": 33978,
                 "MD5": "4df0adafc78ebba404d4037987d36b61",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/ow2/asm/asm-analysis/9.5/asm-analysis-9.5.jar"
               }
             },
             {
@@ -207,7 +207,7 @@
               "artifact": {
                 "size": 77756,
                 "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
               }
             },
             {
@@ -217,7 +217,7 @@
               "artifact": {
                 "size": 337868,
                 "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
               }
             },
             {
@@ -227,7 +227,7 @@
               "artifact": {
                 "size": 53985,
                 "MD5": "2a6245210b446b2144071e71ca13432b",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
               }
             },
             {
@@ -237,7 +237,7 @@
               "artifact": {
                 "size": 29831,
                 "MD5": "bd34d20287dc95201fe9475a8bbc2540",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
               }
             },
             {
@@ -247,7 +247,7 @@
               "artifact": {
                 "size": 24199,
                 "MD5": "8c590051c5d65e098ca7c2e3ddf803a8",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/coremods/5.0.1/coremods-5.0.1.jar"
               }
             },
             {
@@ -257,7 +257,7 @@
               "artifact": {
                 "size": 130343,
                 "MD5": "07507d18d72661f8ae6a5da75bbf35be",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
               }
             },
             {
@@ -267,7 +267,7 @@
               "artifact": {
                 "size": 2834,
                 "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
               }
             },
             {
@@ -277,7 +277,7 @@
               "artifact": {
                 "size": 2572,
                 "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
               }
             },
             {
@@ -287,7 +287,7 @@
               "artifact": {
                 "size": 199834,
                 "MD5": "d83ab07267e402131fb93d899a57f5cd",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
               }
             },
             {
@@ -297,7 +297,7 @@
               "artifact": {
                 "size": 31816,
                 "MD5": "bc95d0709fff2164b01fd09fbc988be8",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
               }
             },
             {
@@ -307,7 +307,7 @@
               "artifact": {
                 "size": 58077,
                 "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
               }
             },
             {
@@ -317,7 +317,7 @@
               "artifact": {
                 "size": 18281,
                 "MD5": "d4a375bf382f726cf1a650ccb38a736c",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
               }
             },
             {
@@ -327,7 +327,7 @@
               "artifact": {
                 "size": 15977,
                 "MD5": "679363fa893293791e55a21f81342f87",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
               }
             },
             {
@@ -337,7 +337,7 @@
               "artifact": {
                 "size": 150765,
                 "MD5": "a2e7b012cd9802f83321187409174a94",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
               }
             },
             {
@@ -347,7 +347,7 @@
               "artifact": {
                 "size": 211712,
                 "MD5": "3c52be5ab5e3847be6e62269de924cb0",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
               }
             },
             {
@@ -357,7 +357,7 @@
               "artifact": {
                 "size": 1089277,
                 "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
               }
             },
             {
@@ -367,7 +367,7 @@
               "artifact": {
                 "size": 2167288,
                 "MD5": "91e98c20afa1090c344229ce28b4c53f",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar"
               }
             },
             {
@@ -377,7 +377,7 @@
               "artifact": {
                 "size": 17374,
                 "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
               }
             },
             {
@@ -387,7 +387,7 @@
               "artifact": {
                 "size": 15895,
                 "MD5": "9633546d299d4282ca68d10582be1c8f",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
               }
             },
             {
@@ -397,7 +397,7 @@
               "artifact": {
                 "size": 8284,
                 "MD5": "48f5255aa337344c467c0150d347813d",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
               }
             },
             {
@@ -407,7 +407,7 @@
               "artifact": {
                 "size": 32195,
                 "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
               }
             },
             {
@@ -417,7 +417,7 @@
               "artifact": {
                 "size": 264245,
                 "MD5": "6ea3c95084cc6dec3205fae098bb8cab",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.0/fmlloader-1.20.1-47.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.2.0/fmlloader-1.20.1-47.2.0.jar"
               }
             },
             {
@@ -427,7 +427,7 @@
               "artifact": {
                 "size": 170333,
                 "MD5": "7050197358f88cf4ea899066fc97625d",
-                "url": "https://nextcloud.zcastle.nexus/zlauncher/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.0/fmlearlydisplay-1.20.1-47.2.0.jar"
+                "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.2.0/fmlearlydisplay-1.20.1-47.2.0.jar"
               }
             }
           ]
@@ -438,7 +438,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3975179,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.9.8.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.9.8.jar",
             "MD5": "be6cd60e23f73416c50e4e5e0044948d"
           }
         },
@@ -448,7 +448,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 530405,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/additional_lights-1.20.1-2.1.7.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/additional_lights-1.20.1-2.1.7.jar",
             "MD5": "2a2661fc9399c3fb4a40fda6e6eec0d1"
           }
         },
@@ -458,7 +458,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3138141,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/additionallanterns-1.1.1-forge-mc1.20.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/additionallanterns-1.1.1-forge-mc1.20.jar",
             "MD5": "091d37362601211f56ddf6775eda5946"
           }
         },
@@ -468,7 +468,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 29553,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
             "MD5": "9a6776ce2deab597d198e8755daa56ff"
           }
         },
@@ -478,7 +478,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 25797308,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/alexsmobs-1.22.6.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/alexsmobs-1.22.6.jar",
             "MD5": "59633540598370dfd9fe99e894d64725"
           }
         },
@@ -488,7 +488,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 36703,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/alternate_current-mc1.20-1.7.0.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/alternate_current-mc1.20-1.7.0.jar",
             "MD5": "43d4d8efddfa77a80aa7b1ae1a04ab48"
           }
         },
@@ -498,7 +498,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 295652,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/camera-1.20.1-1.0.6.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/camera-1.20.1-1.0.6.jar",
             "MD5": "057bac5278a4e9d406e6da8b4b996929"
           }
         },
@@ -508,7 +508,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 81717,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/carpeted-1.20-1.4.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/carpeted-1.20-1.4.jar",
             "MD5": "f438f499420506e4f7f4482c68043379"
           }
         },
@@ -518,7 +518,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2613393,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
             "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
           }
         },
@@ -528,7 +528,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14650965,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.1.jar",
             "MD5": "4567a482f9354bde7adb34b45091921e"
           }
         },
@@ -538,7 +538,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 20299,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.3.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.3.jar",
             "MD5": "96bf293dd60adea1bd210d579bdb3a59"
           }
         },
@@ -548,7 +548,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 216819,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/combatroll-forge-1.3.0+1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/combatroll-forge-1.3.0+1.20.1.jar",
             "MD5": "b915d383f777b3eda0c53f4f6fde85c1"
           }
         },
@@ -558,7 +558,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 785913,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/connectedglass-1.1.8-forge-mc1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/connectedglass-1.1.8-forge-mc1.20.1.jar",
             "MD5": "f853adfe7cac9bb109899aac51cff152"
           }
         },
@@ -568,7 +568,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 223423,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/corpse-1.20.1-1.0.5.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/corpse-1.20.1-1.0.5.jar",
             "MD5": "4c7279e282c15f67f2e2e6c091a2b63c"
           }
         },
@@ -578,7 +578,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14964127,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/create-1.20.1-0.5.1.f.jar",
             "MD5": "6a097aa0bfc73a4f8372a16e763f9f02"
           }
         },
@@ -588,7 +588,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1339804,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/creeperoverhaul-3.0.1-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/creeperoverhaul-3.0.1-forge.jar",
             "MD5": "3dc57177847b80a7da9ffb18a5cd4823"
           }
         },
@@ -598,7 +598,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2027484,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-2.3.2.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-2.3.2.jar",
             "MD5": "25778d81460f7a3adc89e691e2473a2b"
           }
         },
@@ -608,7 +608,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 78217,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/CroptopiaAdditions-1.20.1-FORGE-2.0.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/CroptopiaAdditions-1.20.1-FORGE-2.0.jar",
             "MD5": "8e7ef37470a4a92cd1d88122c8e0b18a"
           }
         },
@@ -618,7 +618,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 8579488,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/DungeonsArise-1.20.1-2.1.57-release.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/DungeonsArise-1.20.1-2.1.57-release.jar",
             "MD5": "ccf1ad861a6ccfdf92e9891d293bbd81"
           }
         },
@@ -628,7 +628,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 23700,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/dynview-1.20.1-3.9.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/dynview-1.20.1-3.9.jar",
             "MD5": "d4eeb78227cea37d365711650419a5b9"
           }
         },
@@ -638,7 +638,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 188132,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
             "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
           }
         },
@@ -648,7 +648,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 680255,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
             "MD5": "636c62379cd7c5201a70fd457808e331"
           }
         },
@@ -658,7 +658,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2898860,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.3.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.3.jar",
             "MD5": "3fa71a0df7af96333247851c6e168f9c"
           }
         },
@@ -668,7 +668,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 3831258,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/FramedBlocks-9.1.6.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/FramedBlocks-9.1.6.jar",
             "MD5": "3cde1dad02ab5393899567238670992c"
           }
         },
@@ -678,7 +678,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 170453,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/fusion-1.0.6-forge-mc1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/fusion-1.0.6-forge-mc1.20.1.jar",
             "MD5": "b1e89fd32dd12637d9c52f52a5c9c8bf"
           }
         },
@@ -688,7 +688,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1937452,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/immersive_aircraft-0.6.2+1.20.1-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/immersive_aircraft-0.6.2+1.20.1-forge.jar",
             "MD5": "ad8bfd0f9a90db99da02a656ff1ab22a"
           }
         },
@@ -698,7 +698,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1238900,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/immersive_armors-1.6.1+1.20.1-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/immersive_armors-1.6.1+1.20.1-forge.jar",
             "MD5": "2a9f7850d37e022216250bbf6a2cbb74"
           }
         },
@@ -708,7 +708,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 514951,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/Jade-1.20.1-forge-11.6.3.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/Jade-1.20.1-forge-11.6.3.jar",
             "MD5": "ce4a210a03ae51630a452f63b3e4f837"
           }
         },
@@ -718,7 +718,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 58319,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/JadeAddons-1.20.1-forge-5.2.1.jar",
             "MD5": "e62f76b254762778550b9c10867f3d6f"
           }
         },
@@ -728,7 +728,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 130376,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/jeed-1.20-2.1.4.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/jeed-1.20-2.1.4.jar",
             "MD5": "ddf7f899755334802ec85db78fe53d3f"
           }
         },
@@ -738,7 +738,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 1112891,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/jei-1.20.1-forge-15.2.0.27.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/jei-1.20.1-forge-15.2.0.27.jar",
             "MD5": "24845f7c3a6ddc59e9dcf97a2d493afa"
           }
         },
@@ -748,7 +748,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7137741,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/journeymap-1.20.1-5.9.16-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/journeymap-1.20.1-5.9.16-forge.jar",
             "MD5": "08041eb5f33ea92f061149ebba1eefe4"
           }
         },
@@ -758,7 +758,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 101756,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/justenoughbreeding-forge-1.20.x-1.0.9.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/justenoughbreeding-forge-1.20.x-1.0.9.jar",
             "MD5": "974750d41f9d2f9eeb4b012daecf84c1"
           }
         },
@@ -768,7 +768,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 276241,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.238.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.238.jar",
             "MD5": "cd79d24ca5e65499e93a027a9f759c3f"
           }
         },
@@ -778,7 +778,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 9151,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/justzoom_forge_1.0.2_MC_1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/justzoom_forge_1.0.2_MC_1.20.1.jar",
             "MD5": "7279dff3825ddea63963ef8ac357ed7b"
           }
         },
@@ -788,7 +788,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 661722,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/modernfix-forge-5.9.1+mc1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/modernfix-forge-5.9.1+mc1.20.1.jar",
             "MD5": "3537444a4b7cfbb54a9d9c99bfadd8c0"
           }
         },
@@ -798,7 +798,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4183232,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/modernlife-1.20.1-1.64.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/modernlife-1.20.1-1.64.jar",
             "MD5": "a2074c1a18bf920a56e8564c522d5985"
           }
         },
@@ -808,7 +808,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 233271,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/MoreVanillaArmor-1.20.1-5.1.2.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/MoreVanillaArmor-1.20.1-5.1.2.jar",
             "MD5": "b10a851f6c7ac1da546322750d6e31cc"
           }
         },
@@ -818,7 +818,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 428608,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/moyai-1.20-2.1.2.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/moyai-1.20-2.1.2.jar",
             "MD5": "afd0dd25739543490f2cacd07e2dba7d"
           }
         },
@@ -828,7 +828,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 16029,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/nocube's_create_compact_exp_1.0.3_forge_1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/nocube's_create_compact_exp_1.0.3_forge_1.20.1.jar",
             "MD5": "3b469792e03145277e299bfa249e1fb6"
           }
         },
@@ -838,7 +838,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2814481,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.9.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/oculus-mc1.20.1-1.6.9.jar",
             "MD5": "dd3596e374db3975a2f83594da6a3e2b"
           }
         },
@@ -848,7 +848,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2420033,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/Orcz_0.87_1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/Orcz_0.87_1.20.1.jar",
             "MD5": "4b5601f749a56d56acf6de32949202c3"
           }
         },
@@ -858,7 +858,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 598371,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/Paraglider-forge-20.1.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/Paraglider-forge-20.1.1.jar",
             "MD5": "8f51f53610c55ce43afe3ba965a97964"
           }
         },
@@ -868,7 +868,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 5296115,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.19_mc1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.19_mc1.20.1.jar",
             "MD5": "ca6eb0c4ba643f882c5606e5402ca79f"
           }
         },
@@ -878,7 +878,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 297597,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/polymorph-forge-0.49.1+1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/polymorph-forge-0.49.1+1.20.1.jar",
             "MD5": "5511b6919c8cb1caa82a3fd03fa27cf9"
           }
         },
@@ -888,7 +888,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 264075,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/right-click-harvest-3.2.3+1.20.1-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/right-click-harvest-3.2.3+1.20.1-forge.jar",
             "MD5": "e16688d5eda3e7fee03ebc2d01456f20"
           }
         },
@@ -898,7 +898,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 715092,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/rubidium-mc1.20.1-0.7.1a.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/rubidium-mc1.20.1-0.7.1a.jar",
             "MD5": "0ffcee4ffe5faa890395c1b87198ea99"
           }
         },
@@ -908,7 +908,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 192423,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/ShieldExpansion-1.20.1-1.1.6a.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/ShieldExpansion-1.20.1-1.1.6a.jar",
             "MD5": "af9b32afe570618723e0c7ab9b6c04cc"
           }
         },
@@ -918,7 +918,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 977052,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/signpost-1.20.1-2.02.0.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/signpost-1.20.1-2.02.0.jar",
             "MD5": "dfa669c5df3228dbd65bf1ac987090da"
           }
         },
@@ -928,7 +928,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 793550,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.18.65.935.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.18.65.935.jar",
             "MD5": "0912d18b5b8f443b77862e5d630a4fa3"
           }
         },
@@ -938,7 +938,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 156873,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/soundphysics-forge-1.20.1-1.2.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/soundphysics-forge-1.20.1-1.2.1.jar",
             "MD5": "c966fce7c6a36624e1d731c485f18dbb"
           }
         },
@@ -948,7 +948,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 34660,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/stackrefill-1.20.1-4.0%20(1).jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/stackrefill-1.20.1-4.0%20(1).jar",
             "MD5": "7c8e77fcb2ea9e753d5cf1207e355ed5"
           }
         },
@@ -958,7 +958,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 14831903,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/supplementaries-1.20-2.6.19.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/supplementaries-1.20-2.6.19.jar",
             "MD5": "d7b2c5ad68f1a616c3410593d12219f3"
           }
         },
@@ -968,7 +968,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 810752,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/suppsquared-1.20-1.1.10.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/suppsquared-1.20-1.1.10.jar",
             "MD5": "04dd2c053c7ccd6f6c7884f06102e0fc"
           }
         },
@@ -978,7 +978,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 117737,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.0.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.0.jar",
             "MD5": "4d17ab79f1432bb8edca90cea6f3dea5"
           }
         },
@@ -988,7 +988,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 2894716,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/untamedwilds-1.20.1-4.0.4.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/untamedwilds-1.20.1-4.0.4.jar",
             "MD5": "50a2823317a1a4785d5b7d7cfc61657a"
           }
         },
@@ -998,7 +998,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 116768,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/VideoPlayer-2.6-FORGE-1.20.X.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/VideoPlayer-2.6-FORGE-1.20.X.jar",
             "MD5": "90095edd772dbff3a3fc92677d72d0a7"
           }
         },
@@ -1008,7 +1008,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 38581179,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/watermedia-2.0.10.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/watermedia-2.0.10.jar",
             "MD5": "9b0f751fdba2cb445719cd77d434e90c"
           }
         },
@@ -1018,7 +1018,7 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 450586,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/forgemods/required/waystones-forge-1.20-14.0.2.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/forgemods/required/waystones-forge-1.20-14.0.2.jar",
             "MD5": "4a84fcb356f9051d02644ed36302a2be"
           }
         },
@@ -1028,7 +1028,7 @@
           "type": "Library",
           "artifact": {
             "size": 47428,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
           }
         },
@@ -1038,7 +1038,7 @@
           "type": "Library",
           "artifact": {
             "size": 91812,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/athena-forge-1.20.1-3.1.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/athena-forge-1.20.1-3.1.1.jar",
             "MD5": "4fb97328cba69ed8506b345e66b43a0f"
           }
         },
@@ -1048,7 +1048,7 @@
           "type": "Library",
           "artifact": {
             "size": 339738,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/balm-forge-1.20.1-7.1.4.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/balm-forge-1.20.1-7.1.4.jar",
             "MD5": "6a50faf0124677a42844c6e634142bf8"
           }
         },
@@ -1058,7 +1058,7 @@
           "type": "Library",
           "artifact": {
             "size": 3074057,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/citadel-2.4.9-1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/citadel-2.4.9-1.20.1.jar",
             "MD5": "c389f7a899dc0c6263e66d6b2102e88f"
           }
         },
@@ -1068,7 +1068,7 @@
           "type": "Library",
           "artifact": {
             "size": 1168375,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/cloth-config-11.1.106-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/cloth-config-11.1.106-forge.jar",
             "MD5": "17794d377921e9cd96b30250a7b13156"
           }
         },
@@ -1078,7 +1078,7 @@
           "type": "Library",
           "artifact": {
             "size": 530922,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/collective-1.20.1-6.82.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/collective-1.20.1-6.82.jar",
             "MD5": "0e59e7a37fb0af3c82efa41840e0185e"
           }
         },
@@ -1088,7 +1088,7 @@
           "type": "Library",
           "artifact": {
             "size": 1064264,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/CreativeCore_FORGE_v2.11.8_mc1.20.1.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/CreativeCore_FORGE_v2.11.8_mc1.20.1.jar",
             "MD5": "ad54ea660a4deb03874fced89ea438ec"
           }
         },
@@ -1098,7 +1098,7 @@
           "type": "Library",
           "artifact": {
             "size": 123034,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/ferritecore-6.0.1-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/ferritecore-6.0.1-forge.jar",
             "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
@@ -1108,7 +1108,7 @@
           "type": "Library",
           "artifact": {
             "size": 984073,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/geckolib-forge-1.20.1-4.2.4.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/geckolib-forge-1.20.1-4.2.4.jar",
             "MD5": "5263f6ff8c7ea97d9fc5d7f6fa06a1ce"
           }
         },
@@ -1118,7 +1118,7 @@
           "type": "Library",
           "artifact": {
             "size": 624093,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/konkrete_forge_1.6.1-2_MC_1.20.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/konkrete_forge_1.6.1-2_MC_1.20.jar",
             "MD5": "b7ef0350bbf4abc2265a39c556d3efb6"
           }
         },
@@ -1128,7 +1128,7 @@
           "type": "Library",
           "artifact": {
             "size": 1110981,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/moonlight-1.20-2.8.57-forge.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/moonlight-1.20-2.8.57-forge.jar",
             "MD5": "788353ca3defdd0bf255654e406c18fd"
           }
         },
@@ -1138,7 +1138,7 @@
           "type": "Library",
           "artifact": {
             "size": 181437,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
           }
         },
@@ -1148,7 +1148,7 @@
           "type": "Library",
           "artifact": {
             "size": 129306,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/resourcefulconfig-forge-1.20.1-2.1.0.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/resourcefulconfig-forge-1.20.1-2.1.0.jar",
             "MD5": "c493616a6becd57df228786e17832520"
           }
         },
@@ -1158,7 +1158,7 @@
           "type": "Library",
           "artifact": {
             "size": 372644,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/resourcefullib-forge-1.20.1-2.1.13.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/resourcefullib-forge-1.20.1-2.1.13.jar",
             "MD5": "1fd4ff2e99adcac0a14cfb9f191f4797"
           }
         },
@@ -1168,7 +1168,7 @@
           "type": "Library",
           "artifact": {
             "size": 988048,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/sophisticatedcore-1.20.1-0.5.100.457.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/sophisticatedcore-1.20.1-0.5.100.457.jar",
             "MD5": "03344051771f56edff213f270f7861cf"
           }
         },
@@ -1178,7 +1178,7 @@
           "type": "Library",
           "artifact": {
             "size": 492090,
-            "url": "https://nextcloud.zcastle.nexus/zlauncher/servers/ZCMCS-1.20.1/libraries/supermartijn642corelib-1.1.15-forge-mc1.20.jar",
+            "url": "https://github.com/Lord-ZuzurNC/Nebula/tree/master/root/servers/ZCMCS-1.20.1/libraries/supermartijn642corelib-1.1.15-forge-mc1.20.jar",
             "MD5": "60e87e382034262b0a217bc59f7bf83e"
           }
         }
