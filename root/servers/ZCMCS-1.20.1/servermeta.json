@@ -4,15 +4,15 @@
     "version": "1.0.0",
     "name": "ZCMCS (Minecraft 1.20.1)",
     "description": "ZCMCS Running Minecraft 1.20.1 (Forge v47.2.0)",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "localhost:25565",
+    "icon": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/ZCMCS.png",
+    "address": "minecraft.zcastle.nexus:25565",
     "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      "shortId": "1173245547210092584",
+      "largeImageText": "zcmcs",
+      "largeImageKey": "zcmcs"
     },
-    "mainServer": false,
-    "autoconnect": false
+    "mainServer": true,
+    "autoconnect": true
   },
   "forge": {
     "version": "47.2.0"

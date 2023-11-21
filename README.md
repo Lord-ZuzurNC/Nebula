@@ -38,11 +38,10 @@ Nebula is still being developed. Usage may change, but it has remained stable fo
 This is the barebones overall usage. Please read the rest of this document.
 
 * Follow the setup instructions above.
-* Run the `init root` command.
-* Generate servers using the `g server` command.
-* Put all files in their respective folders (documented below).
-* Generate the distribution using the `g distro` command.
-* When in doubt, reread this document and then ask on Discord.
+* `npm run start -- init root`
+* `npm run start -- g server ZCMCS 1.20.1 --forge 47.2.0`
+* Put all mods in the "required" folder.
+* `npm run start -- g distro`
 
 ## Commands
 
