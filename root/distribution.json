@@ -2,9 +2,9 @@
   "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
-    "clientId": "1173245547210092584",
-    "smallImageText": "zcmcs",
-    "smallImageKey": "zcmcs"
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
     {
@@ -593,13 +593,13 @@
           }
         },
         {
-          "id": "com.natamus:collective:6.82@jar",
+          "id": "com.natamus:collective:7.8@jar",
           "name": "Collective",
           "type": "ForgeMod",
           "artifact": {
-            "size": 530922,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/collective-1.20.1-6.82.jar",
-            "MD5": "0e59e7a37fb0af3c82efa41840e0185e"
+            "size": 530343,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/collective-1.20.1-7.8.jar",
+            "MD5": "cc56e3df77262ba406c4c5756a3e5f79"
           }
         },
         {
@@ -613,13 +613,13 @@
           }
         },
         {
-          "id": "com.supermartijn642:connectedglass:1.1.8@jar",
+          "id": "com.supermartijn642:connectedglass:1.1.9@jar",
           "name": "Connected Glass",
           "type": "ForgeMod",
           "artifact": {
-            "size": 785913,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/connectedglass-1.1.8-forge-mc1.20.1.jar",
-            "MD5": "f853adfe7cac9bb109899aac51cff152"
+            "size": 848390,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/connectedglass-1.1.9-forge-mc1.20.1.jar",
+            "MD5": "517376d5f888c9e40f326dcd71fea604"
           }
         },
         {
@@ -643,13 +643,13 @@
           }
         },
         {
-          "id": "team.creative:creativecore:2.11.8@jar",
+          "id": "team.creative:creativecore:2.11.10@jar",
           "name": "CreativeCore",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1064264,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/CreativeCore_FORGE_v2.11.8_mc1.20.1.jar",
-            "MD5": "ad54ea660a4deb03874fced89ea438ec"
+            "size": 1072167,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/CreativeCore_FORGE_v2.11.10_mc1.20.1.jar",
+            "MD5": "754e54ecc301545e240e553cbceefcda"
           }
         },
         {
@@ -723,6 +723,16 @@
           }
         },
         {
+          "id": "de.keksuccino:fancymenu:2.14.9@jar",
+          "name": "FancyMenu",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1394880,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/fancymenu_forge_2.14.9-3_MC_1.20.1.jar",
+            "MD5": "434d1c2ffec6a8201a1c5200aaa8f002"
+          }
+        },
+        {
           "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.3@jar",
           "name": "Farmer's Delight",
           "type": "ForgeMod",
@@ -753,13 +763,13 @@
           }
         },
         {
-          "id": "com.supermartijn642:fusion:1.0.6@jar",
+          "id": "com.supermartijn642:fusion:1.1.0b@jar",
           "name": "Fusion",
           "type": "ForgeMod",
           "artifact": {
-            "size": 170453,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/fusion-1.0.6-forge-mc1.20.1.jar",
-            "MD5": "b1e89fd32dd12637d9c52f52a5c9c8bf"
+            "size": 207754,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/fusion-1.1.0b-forge-mc1.20.1.jar",
+            "MD5": "ee8745d6447792c2b4ce7fe593488776"
           }
         },
         {
@@ -813,13 +823,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:jeed:1.20-2.1.4@jar",
+          "id": "net.mehvahdjukaar:jeed:1.20-2.1.6@jar",
           "name": "Just Enough Effects Descriptions",
           "type": "ForgeMod",
           "artifact": {
-            "size": 130376,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/jeed-1.20-2.1.4.jar",
-            "MD5": "ddf7f899755334802ec85db78fe53d3f"
+            "size": 130362,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/jeed-1.20-2.1.6.jar",
+            "MD5": "508c9efa47cfae365238452717a47bb3"
           }
         },
         {
@@ -833,23 +843,23 @@
           }
         },
         {
-          "id": "journeymap:journeymap:5.9.16@jar",
+          "id": "journeymap:journeymap:5.9.18@jar",
           "name": "Journeymap",
           "type": "ForgeMod",
           "artifact": {
-            "size": 7137741,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/journeymap-1.20.1-5.9.16-forge.jar",
-            "MD5": "08041eb5f33ea92f061149ebba1eefe4"
+            "size": 7137844,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/journeymap-1.20.1-5.9.18-forge.jar",
+            "MD5": "edbc385e7bc9741b609553e7d6ed2f5d"
           }
         },
         {
-          "id": "com.christofmeg:justenoughbreeding:1.0.9@jar",
+          "id": "com.christofmeg:justenoughbreeding:1.0.10@jar",
           "name": "Just Enough Breeding",
           "type": "ForgeMod",
           "artifact": {
-            "size": 101756,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/justenoughbreeding-forge-1.20.x-1.0.9.jar",
-            "MD5": "974750d41f9d2f9eeb4b012daecf84c1"
+            "size": 108682,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/justenoughbreeding-forge-1.20.x-1.0.10.jar",
+            "MD5": "455f2b85cf6167c790c4df5786ac1359"
           }
         },
         {
@@ -883,13 +893,23 @@
           }
         },
         {
-          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.9.1+mc1.20.1@jar",
+          "id": "de.keksuccino:loadmyresources:1.0.4@jar",
+          "name": "Load My Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 31801,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/loadmyresources_forge_1.0.4_MC_1.19.3.jar",
+            "MD5": "22bb77cda33ae4928fbbb00b0d63ebd0"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.9.3+mc1.20.1@jar",
           "name": "ModernFix",
           "type": "ForgeMod",
           "artifact": {
-            "size": 661722,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/modernfix-forge-5.9.1+mc1.20.1.jar",
-            "MD5": "3537444a4b7cfbb54a9d9c99bfadd8c0"
+            "size": 662216,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/modernfix-forge-5.9.3+mc1.20.1.jar",
+            "MD5": "3cc729e48a8e90c19925cbf2070a0c83"
           }
         },
         {
@@ -903,13 +923,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moonlight:1.20-2.8.57@jar",
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.8.66@jar",
           "name": "Moonlight Library",
           "type": "ForgeMod",
           "artifact": {
-            "size": 1110981,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/moonlight-1.20-2.8.57-forge.jar",
-            "MD5": "788353ca3defdd0bf255654e406c18fd"
+            "size": 1096623,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/moonlight-1.20-2.8.66-forge.jar",
+            "MD5": "7ef210c4de3fb49e3ea6cd49dfc9d684"
           }
         },
         {
@@ -923,13 +943,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:moyai:1.20-2.1.2@jar",
+          "id": "net.mehvahdjukaar:moyai:1.20-2.1.4@jar",
           "name": "Moyai",
           "type": "ForgeMod",
           "artifact": {
-            "size": 428608,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/moyai-1.20-2.1.2.jar",
-            "MD5": "afd0dd25739543490f2cacd07e2dba7d"
+            "size": 431718,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/moyai-1.20-2.1.4.jar",
+            "MD5": "a05861c0080e704a8679b4ee49eacfc3"
           }
         },
         {
@@ -1013,13 +1033,13 @@
           }
         },
         {
-          "id": "com.teamresourceful:resourcefullib:2.1.13@jar",
+          "id": "com.teamresourceful:resourcefullib:2.1.16@jar",
           "name": "Resourceful Lib",
           "type": "ForgeMod",
           "artifact": {
-            "size": 372644,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.13.jar",
-            "MD5": "1fd4ff2e99adcac0a14cfb9f191f4797"
+            "size": 380576,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.16.jar",
+            "MD5": "0ba7d419cc8ecb6dc134046ac81bf7d5"
           }
         },
         {
@@ -1043,13 +1063,13 @@
           }
         },
         {
-          "id": "org.infernalstudios:shieldexp:1.1.6a@jar",
+          "id": "org.infernalstudios:shieldexp:1.1.7@jar",
           "name": "Shield Expansion",
           "type": "ForgeMod",
           "artifact": {
-            "size": 192423,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/ShieldExpansion-1.20.1-1.1.6a.jar",
-            "MD5": "af9b32afe570618723e0c7ab9b6c04cc"
+            "size": 286332,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/ShieldExpansion-1.20.1-1.1.7.jar",
+            "MD5": "ec30f5a6ac2a94bc40fd943d4e9729a9"
           }
         },
         {
@@ -1063,23 +1083,23 @@
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.18.65.935@jar",
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.18.68.952@jar",
           "name": "Sophisticated Backpacks",
           "type": "ForgeMod",
           "artifact": {
-            "size": 793550,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.18.65.935.jar",
-            "MD5": "0912d18b5b8f443b77862e5d630a4fa3"
+            "size": 813318,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.18.68.952.jar",
+            "MD5": "8e24244d0fc4252c19deebab56452ca4"
           }
         },
         {
-          "id": "net.p3pp3rf1y:sophisticatedcore:0.5.100.457@jar",
+          "id": "net.p3pp3rf1y:sophisticatedcore:0.5.107.496@jar",
           "name": "Sophisticated Core",
           "type": "ForgeMod",
           "artifact": {
-            "size": 988048,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.5.100.457.jar",
-            "MD5": "03344051771f56edff213f270f7861cf"
+            "size": 1043258,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/sophisticatedcore-1.20.1-0.5.107.496.jar",
+            "MD5": "b085aab67959fc2ad6def3b36d45eafa"
           }
         },
         {
@@ -1093,13 +1113,13 @@
           }
         },
         {
-          "id": "com.natamus:stackrefill:4.0@jar",
+          "id": "com.natamus:stackrefill:4.1@jar",
           "name": "Stack Refill",
           "type": "ForgeMod",
           "artifact": {
-            "size": 34660,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/stackrefill-1.20.1-4.0%20(1).jar",
-            "MD5": "7c8e77fcb2ea9e753d5cf1207e355ed5"
+            "size": 34646,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/stackrefill-1.20.1-4.1.jar",
+            "MD5": "4f7e9dbe4ed7cc960be9ceebd7d9bd4a"
           }
         },
         {
@@ -1113,13 +1133,13 @@
           }
         },
         {
-          "id": "net.mehvahdjukaar:supplementaries:1.20-2.6.19@jar",
+          "id": "net.mehvahdjukaar:supplementaries:1.20-2.6.31@jar",
           "name": "Supplementaries",
           "type": "ForgeMod",
           "artifact": {
-            "size": 14831903,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/supplementaries-1.20-2.6.19.jar",
-            "MD5": "d7b2c5ad68f1a616c3410593d12219f3"
+            "size": 14868549,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/supplementaries-1.20-2.6.31.jar",
+            "MD5": "849025580d571d9bc312f11f1431af50"
           }
         },
         {
@@ -1163,13 +1183,13 @@
           }
         },
         {
-          "id": "me.srrapero720.watermedia.modloaders:watermedia:2.0.10@jar",
+          "id": "me.srrapero720.watermedia.modloaders:watermedia:2.0.23@jar",
           "name": "WaterMedia",
           "type": "ForgeMod",
           "artifact": {
-            "size": 38581179,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/watermedia-2.0.10.jar",
-            "MD5": "9b0f751fdba2cb445719cd77d434e90c"
+            "size": 26558973,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/watermedia-2.0.23.jar",
+            "MD5": "1ba0ee273edbebf46d217ba643d83ca8"
           }
         },
         {
@@ -1180,6 +1200,2250 @@
             "size": 450586,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/forgemods/required/waystones-forge-1.20-14.0.2.jar",
             "MD5": "4a84fcb356f9051d02644ed36302a2be"
+          }
+        },
+        {
+          "id": "aiimprovements-common.toml",
+          "name": "aiimprovements-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6211,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/aiimprovements-common.toml",
+            "MD5": "71450aa2f5b19702f457be0d519bf725",
+            "path": "config/aiimprovements-common.toml"
+          }
+        },
+        {
+          "id": "alligator_snapping_turtle_spawns.json",
+          "name": "alligator_snapping_turtle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+            "MD5": "e880e0c7e38986fb1f7a8885a892b0fc",
+            "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+          }
+        },
+        {
+          "id": "anaconda_spawns.json",
+          "name": "anaconda_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1036,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/anaconda_spawns.json",
+            "MD5": "74d2b1bc857e9acb8321f296567a8f7f",
+            "path": "config/alexsmobs/anaconda_spawns.json"
+          }
+        },
+        {
+          "id": "anteater_spawns.json",
+          "name": "anteater_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/anteater_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/anteater_spawns.json"
+          }
+        },
+        {
+          "id": "bald_eagle_spawns.json",
+          "name": "bald_eagle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2723,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/bald_eagle_spawns.json",
+            "MD5": "dd9229ac98bbf83a1309d4b1e3770fd5",
+            "path": "config/alexsmobs/bald_eagle_spawns.json"
+          }
+        },
+        {
+          "id": "banana_slug_spawns.json",
+          "name": "banana_slug_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1697,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/banana_slug_spawns.json",
+            "MD5": "6aec0b8dd4904343a50e7fb0a37b2912",
+            "path": "config/alexsmobs/banana_slug_spawns.json"
+          }
+        },
+        {
+          "id": "bison_spawns.json",
+          "name": "bison_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1761,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/bison_spawns.json",
+            "MD5": "729766841964832662fb610b6a661dc4",
+            "path": "config/alexsmobs/bison_spawns.json"
+          }
+        },
+        {
+          "id": "blobfish_spawns.json",
+          "name": "blobfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/blobfish_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/blobfish_spawns.json"
+          }
+        },
+        {
+          "id": "blue_jay_spawns.json",
+          "name": "blue_jay_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/blue_jay_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/blue_jay_spawns.json"
+          }
+        },
+        {
+          "id": "bone_serpent_spawns.json",
+          "name": "bone_serpent_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/bone_serpent_spawns.json",
+            "MD5": "477bc268eb72dc151845a22729de3fe8",
+            "path": "config/alexsmobs/bone_serpent_spawns.json"
+          }
+        },
+        {
+          "id": "bunfungus_spawns.json",
+          "name": "bunfungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/bunfungus_spawns.json",
+            "MD5": "e585908f8d3914a77836461f2f136848",
+            "path": "config/alexsmobs/bunfungus_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_beached_spawns.json",
+          "name": "cachalot_whale_beached_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 642,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
+            "MD5": "b779f228a334a5be8eaa5f845664105c",
+            "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_spawns.json",
+          "name": "cachalot_whale_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 893,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/cachalot_whale_spawns.json",
+            "MD5": "53158516acce1c7ce2d05e0a61ff5965",
+            "path": "config/alexsmobs/cachalot_whale_spawns.json"
+          }
+        },
+        {
+          "id": "caiman_spawns.json",
+          "name": "caiman_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/caiman_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/caiman_spawns.json"
+          }
+        },
+        {
+          "id": "capuchin_monkey_spawns.json",
+          "name": "capuchin_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1184,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
+            "MD5": "61f854072c18a0b127bb37c01b33a0ae",
+            "path": "config/alexsmobs/capuchin_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "catfish_spawns.json",
+          "name": "catfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1097,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/catfish_spawns.json",
+            "MD5": "f0234087612d8035344fbfb634cebfa9",
+            "path": "config/alexsmobs/catfish_spawns.json"
+          }
+        },
+        {
+          "id": "cave_centipede_spawns.json",
+          "name": "cave_centipede_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/cave_centipede_spawns.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/cave_centipede_spawns.json"
+          }
+        },
+        {
+          "id": "cockroach_spawns.json",
+          "name": "cockroach_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/cockroach_spawns.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/cockroach_spawns.json"
+          }
+        },
+        {
+          "id": "comb_jelly_spawns.json",
+          "name": "comb_jelly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 414,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/comb_jelly_spawns.json",
+            "MD5": "e9fa2345daa80ad12a849fe96ea656f9",
+            "path": "config/alexsmobs/comb_jelly_spawns.json"
+          }
+        },
+        {
+          "id": "cosmaw_spawns.json",
+          "name": "cosmaw_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 371,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/cosmaw_spawns.json",
+            "MD5": "99ec85d1693bdd51d1970b9bfba84267",
+            "path": "config/alexsmobs/cosmaw_spawns.json"
+          }
+        },
+        {
+          "id": "cosmic_cod_spawns.json",
+          "name": "cosmic_cod_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/cosmic_cod_spawns.json",
+            "MD5": "84b1c3b63a2e5656da5478c844a5ad49",
+            "path": "config/alexsmobs/cosmic_cod_spawns.json"
+          }
+        },
+        {
+          "id": "crimson_mosquito_spawns.json",
+          "name": "crimson_mosquito_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 670,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
+            "MD5": "a51aa6b517dd959ad97976762cb2714b",
+            "path": "config/alexsmobs/crimson_mosquito_spawns.json"
+          }
+        },
+        {
+          "id": "crocodile_spawns.json",
+          "name": "crocodile_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1007,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/crocodile_spawns.json",
+            "MD5": "062f820f53eee3c3a4eed7621a4d96c3",
+            "path": "config/alexsmobs/crocodile_spawns.json"
+          }
+        },
+        {
+          "id": "crow_spawns.json",
+          "name": "crow_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 5146,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/crow_spawns.json",
+            "MD5": "607a09f65c8023448ad7828e29bde4e6",
+            "path": "config/alexsmobs/crow_spawns.json"
+          }
+        },
+        {
+          "id": "devils_hole_pupfish_spawns.json",
+          "name": "devils_hole_pupfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
+          }
+        },
+        {
+          "id": "dropbear_spawns.json",
+          "name": "dropbear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 288,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/dropbear_spawns.json",
+            "MD5": "046dcd5909b4548b875c94ba78fd5256",
+            "path": "config/alexsmobs/dropbear_spawns.json"
+          }
+        },
+        {
+          "id": "elephant_spawns.json",
+          "name": "elephant_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1163,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/elephant_spawns.json",
+            "MD5": "1032996d6a2cac873766f7a443d44810",
+            "path": "config/alexsmobs/elephant_spawns.json"
+          }
+        },
+        {
+          "id": "emu_spawns.json",
+          "name": "emu_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/emu_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/emu_spawns.json"
+          }
+        },
+        {
+          "id": "endergrade_spawns.json",
+          "name": "endergrade_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/endergrade_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/endergrade_spawns.json"
+          }
+        },
+        {
+          "id": "enderiophage_spawns.json",
+          "name": "enderiophage_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 603,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/enderiophage_spawns.json",
+            "MD5": "4ab64e4848a83c605d54ade54fdf0702",
+            "path": "config/alexsmobs/enderiophage_spawns.json"
+          }
+        },
+        {
+          "id": "farseer.json",
+          "name": "farseer.json",
+          "type": "File",
+          "artifact": {
+            "size": 151,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/farseer.json",
+            "MD5": "e1cfb444a4f5e479ff5baec53545be7f",
+            "path": "config/alexsmobs/farseer.json"
+          }
+        },
+        {
+          "id": "flutter_spawns.json",
+          "name": "flutter_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/flutter_spawns.json",
+            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "path": "config/alexsmobs/flutter_spawns.json"
+          }
+        },
+        {
+          "id": "flying_fish_spawns.json",
+          "name": "flying_fish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 716,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/flying_fish_spawns.json",
+            "MD5": "7bf21cd1ccc1499470e52d91402a899f",
+            "path": "config/alexsmobs/flying_fish_spawns.json"
+          }
+        },
+        {
+          "id": "fly_spawns.json",
+          "name": "fly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/fly_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/fly_spawns.json"
+          }
+        },
+        {
+          "id": "frilled_shark_spawns.json",
+          "name": "frilled_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/frilled_shark_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/frilled_shark_spawns.json"
+          }
+        },
+        {
+          "id": "froststalker_spawns.json",
+          "name": "froststalker_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 934,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/froststalker_spawns.json",
+            "MD5": "2a017b04fa69a371da739dca3dccfaeb",
+            "path": "config/alexsmobs/froststalker_spawns.json"
+          }
+        },
+        {
+          "id": "gazelle_spawns.json",
+          "name": "gazelle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/gazelle_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/gazelle_spawns.json"
+          }
+        },
+        {
+          "id": "gelada_monkey_spawns.json",
+          "name": "gelada_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1001,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/gelada_monkey_spawns.json",
+            "MD5": "c229e44c5b5bd924b2449149c1fabac7",
+            "path": "config/alexsmobs/gelada_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "giant_squid_spawns.json",
+          "name": "giant_squid_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/giant_squid_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/giant_squid_spawns.json"
+          }
+        },
+        {
+          "id": "gorilla_spawns.json",
+          "name": "gorilla_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/gorilla_spawns.json",
+            "MD5": "803b7292137cbeece7aaa1d69e04b5b2",
+            "path": "config/alexsmobs/gorilla_spawns.json"
+          }
+        },
+        {
+          "id": "grizzly_bear_spawns.json",
+          "name": "grizzly_bear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/grizzly_bear_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/grizzly_bear_spawns.json"
+          }
+        },
+        {
+          "id": "guster_spawns.json",
+          "name": "guster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1017,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/guster_spawns.json",
+            "MD5": "2ade3cc9114565487e4d793f6adf88b9",
+            "path": "config/alexsmobs/guster_spawns.json"
+          }
+        },
+        {
+          "id": "hammerhead_shark_spawns.json",
+          "name": "hammerhead_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
+            "MD5": "3e1c6fd6a63f92c5784cd66565dfb1f7",
+            "path": "config/alexsmobs/hammerhead_shark_spawns.json"
+          }
+        },
+        {
+          "id": "hummingbird_spawns.json",
+          "name": "hummingbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3029,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/hummingbird_spawns.json",
+            "MD5": "4ab2f69a298dba2dd6de993426aa1642",
+            "path": "config/alexsmobs/hummingbird_spawns.json"
+          }
+        },
+        {
+          "id": "jerboa_spawns.json",
+          "name": "jerboa_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/jerboa_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/jerboa_spawns.json"
+          }
+        },
+        {
+          "id": "kangaroo_spawns.json",
+          "name": "kangaroo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/kangaroo_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/kangaroo_spawns.json"
+          }
+        },
+        {
+          "id": "komodo_dragon_spawns.json",
+          "name": "komodo_dragon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 775,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/komodo_dragon_spawns.json",
+            "MD5": "bb0e841a9cf2784c27209ab46af2ab58",
+            "path": "config/alexsmobs/komodo_dragon_spawns.json"
+          }
+        },
+        {
+          "id": "laviathan_spawns.json",
+          "name": "laviathan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/laviathan_spawns.json",
+            "MD5": "477bc268eb72dc151845a22729de3fe8",
+            "path": "config/alexsmobs/laviathan_spawns.json"
+          }
+        },
+        {
+          "id": "leafcutter_anthill_spawns.json",
+          "name": "leafcutter_anthill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
+          }
+        },
+        {
+          "id": "lobster_spawns.json",
+          "name": "lobster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 398,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/lobster_spawns.json",
+            "MD5": "3284cadc1438c85425a3621a016e6eba",
+            "path": "config/alexsmobs/lobster_spawns.json"
+          }
+        },
+        {
+          "id": "maned_wolf_spawns.json",
+          "name": "maned_wolf_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1037,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/maned_wolf_spawns.json",
+            "MD5": "c21feac193fa689955ac90f659e1f0c2",
+            "path": "config/alexsmobs/maned_wolf_spawns.json"
+          }
+        },
+        {
+          "id": "mantis_shrimp_spawns.json",
+          "name": "mantis_shrimp_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 385,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
+            "MD5": "c0a4157361a392c8a4d4e32d95bcc46f",
+            "path": "config/alexsmobs/mantis_shrimp_spawns.json"
+          }
+        },
+        {
+          "id": "mimicube_spawns.json",
+          "name": "mimicube_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/mimicube_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/mimicube_spawns.json"
+          }
+        },
+        {
+          "id": "mimic_octopus_spawns.json",
+          "name": "mimic_octopus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 373,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
+            "MD5": "468f301a2a863dc3c56c0dffc967fb73",
+            "path": "config/alexsmobs/mimic_octopus_spawns.json"
+          }
+        },
+        {
+          "id": "moose_spawns.json",
+          "name": "moose_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2291,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/moose_spawns.json",
+            "MD5": "9352df8e11cc9d6c49756868320ff3bb",
+            "path": "config/alexsmobs/moose_spawns.json"
+          }
+        },
+        {
+          "id": "mudskipper_spawns.json",
+          "name": "mudskipper_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/mudskipper_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/mudskipper_spawns.json"
+          }
+        },
+        {
+          "id": "mungus_spawns.json",
+          "name": "mungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/mungus_spawns.json",
+            "MD5": "e585908f8d3914a77836461f2f136848",
+            "path": "config/alexsmobs/mungus_spawns.json"
+          }
+        },
+        {
+          "id": "murmur.json",
+          "name": "murmur.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/murmur.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/murmur.json"
+          }
+        },
+        {
+          "id": "orca_spawns.json",
+          "name": "orca_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/orca_spawns.json",
+            "MD5": "7c9a514102d327b8d9ba16b19a991049",
+            "path": "config/alexsmobs/orca_spawns.json"
+          }
+        },
+        {
+          "id": "platypus_spawns.json",
+          "name": "platypus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/platypus_spawns.json",
+            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "path": "config/alexsmobs/platypus_spawns.json"
+          }
+        },
+        {
+          "id": "potoo_spawns.json",
+          "name": "potoo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/potoo_spawns.json",
+            "MD5": "d1511fa5b0562676dab091599bc838a2",
+            "path": "config/alexsmobs/potoo_spawns.json"
+          }
+        },
+        {
+          "id": "raccoon_spawns.json",
+          "name": "raccoon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3712,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/raccoon_spawns.json",
+            "MD5": "ef2fd8cf69fc21a78c45e79c1a1bf5a7",
+            "path": "config/alexsmobs/raccoon_spawns.json"
+          }
+        },
+        {
+          "id": "rain_frog_spawns.json",
+          "name": "rain_frog_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/rain_frog_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/rain_frog_spawns.json"
+          }
+        },
+        {
+          "id": "rattlesnake_spawns.json",
+          "name": "rattlesnake_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/rattlesnake_spawns.json",
+            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "path": "config/alexsmobs/rattlesnake_spawns.json"
+          }
+        },
+        {
+          "id": "rhinoceros_spawns.json",
+          "name": "rhinoceros_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/rhinoceros_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/rhinoceros_spawns.json"
+          }
+        },
+        {
+          "id": "roadrunner_spawns.json",
+          "name": "roadrunner_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/roadrunner_spawns.json",
+            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "path": "config/alexsmobs/roadrunner_spawns.json"
+          }
+        },
+        {
+          "id": "rocky_roller_spawns.json",
+          "name": "rocky_roller_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 558,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/rocky_roller_spawns.json",
+            "MD5": "2d30179a8a4c6ec7aa3a2a13c5132465",
+            "path": "config/alexsmobs/rocky_roller_spawns.json"
+          }
+        },
+        {
+          "id": "seagull_spawns.json",
+          "name": "seagull_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1296,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/seagull_spawns.json",
+            "MD5": "477c8512be58a4c7cadbc3ea65c3642a",
+            "path": "config/alexsmobs/seagull_spawns.json"
+          }
+        },
+        {
+          "id": "seal_spawns.json",
+          "name": "seal_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 877,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/seal_spawns.json",
+            "MD5": "001c3ef108fd4fa9766fc80441edeb04",
+            "path": "config/alexsmobs/seal_spawns.json"
+          }
+        },
+        {
+          "id": "shoebill_spawns.json",
+          "name": "shoebill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/shoebill_spawns.json",
+            "MD5": "7e9b29c6eba19484a234ee300f2dea69",
+            "path": "config/alexsmobs/shoebill_spawns.json"
+          }
+        },
+        {
+          "id": "skelewag_spawns.json",
+          "name": "skelewag_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/skelewag_spawns.json",
+            "MD5": "d7f3180b6ac1d527e53a68a2c1efaf13",
+            "path": "config/alexsmobs/skelewag_spawns.json"
+          }
+        },
+        {
+          "id": "skreecher.json",
+          "name": "skreecher.json",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/skreecher.json",
+            "MD5": "a42c4e9c8627ccb68352cdbf3f9654a9",
+            "path": "config/alexsmobs/skreecher.json"
+          }
+        },
+        {
+          "id": "skunk_spawns.json",
+          "name": "skunk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2037,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/skunk_spawns.json",
+            "MD5": "e077fe3ab2315f937483c66f95ece589",
+            "path": "config/alexsmobs/skunk_spawns.json"
+          }
+        },
+        {
+          "id": "snow_leopard_spawns.json",
+          "name": "snow_leopard_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1808,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/snow_leopard_spawns.json",
+            "MD5": "54323941affc9be9f7a507f68dbd4ee7",
+            "path": "config/alexsmobs/snow_leopard_spawns.json"
+          }
+        },
+        {
+          "id": "soul_vulture_spawns.json",
+          "name": "soul_vulture_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 408,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/soul_vulture_spawns.json",
+            "MD5": "93b4b2d3e75c2d356befcb623a7b0f9c",
+            "path": "config/alexsmobs/soul_vulture_spawns.json"
+          }
+        },
+        {
+          "id": "spectre_spawns.json",
+          "name": "spectre_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/spectre_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/spectre_spawns.json"
+          }
+        },
+        {
+          "id": "straddler_spawns.json",
+          "name": "straddler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 549,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/straddler_spawns.json",
+            "MD5": "8c91f25092d94c329c2fba0b488aedf5",
+            "path": "config/alexsmobs/straddler_spawns.json"
+          }
+        },
+        {
+          "id": "stradpole_spawns.json",
+          "name": "stradpole_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 549,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/stradpole_spawns.json",
+            "MD5": "8c91f25092d94c329c2fba0b488aedf5",
+            "path": "config/alexsmobs/stradpole_spawns.json"
+          }
+        },
+        {
+          "id": "sugar_glider_spawns.json",
+          "name": "sugar_glider_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/sugar_glider_spawns.json",
+            "MD5": "6f1722c17a8adc08ab757a0e6377233e",
+            "path": "config/alexsmobs/sugar_glider_spawns.json"
+          }
+        },
+        {
+          "id": "sunbird_spawns.json",
+          "name": "sunbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3925,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/sunbird_spawns.json",
+            "MD5": "147fdf357f3478c40b5b7481569c6c07",
+            "path": "config/alexsmobs/sunbird_spawns.json"
+          }
+        },
+        {
+          "id": "tarantula_hawk_spawns.json",
+          "name": "tarantula_hawk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/tarantula_hawk_spawns.json"
+          }
+        },
+        {
+          "id": "tasmanian_devil_spawns.json",
+          "name": "tasmanian_devil_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1908,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
+            "MD5": "2234aec1f09e2e0e5d202cfbeb9b283b",
+            "path": "config/alexsmobs/tasmanian_devil_spawns.json"
+          }
+        },
+        {
+          "id": "terrapin_spawns.json",
+          "name": "terrapin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/terrapin_spawns.json",
+            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "path": "config/alexsmobs/terrapin_spawns.json"
+          }
+        },
+        {
+          "id": "tiger_spawns.json",
+          "name": "tiger_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1209,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/tiger_spawns.json",
+            "MD5": "8e7708606954a64a9f8648585c8a4a74",
+            "path": "config/alexsmobs/tiger_spawns.json"
+          }
+        },
+        {
+          "id": "toucan_spawns.json",
+          "name": "toucan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/toucan_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/toucan_spawns.json"
+          }
+        },
+        {
+          "id": "triops_spawns.json",
+          "name": "triops_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/triops_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/triops_spawns.json"
+          }
+        },
+        {
+          "id": "tusklin_spawns.json",
+          "name": "tusklin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 882,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/tusklin_spawns.json",
+            "MD5": "502bb996e36a50b977acb73e29e975df",
+            "path": "config/alexsmobs/tusklin_spawns.json"
+          }
+        },
+        {
+          "id": "underminer.json",
+          "name": "underminer.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/underminer.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/underminer.json"
+          }
+        },
+        {
+          "id": "void_worm_spawns.json",
+          "name": "void_worm_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/void_worm_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/void_worm_spawns.json"
+          }
+        },
+        {
+          "id": "warped_mosco_spawns.json",
+          "name": "warped_mosco_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/warped_mosco_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/warped_mosco_spawns.json"
+          }
+        },
+        {
+          "id": "warped_toad_spawns.json",
+          "name": "warped_toad_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 661,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs/warped_toad_spawns.json",
+            "MD5": "39d42abce47f0e9e64bab7680a0d8ef0",
+            "path": "config/alexsmobs/warped_toad_spawns.json"
+          }
+        },
+        {
+          "id": "alexsmobs.toml",
+          "name": "alexsmobs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 36459,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs.toml",
+            "MD5": "143196c43f5e5ced6052971c417e0c50",
+            "path": "config/alexsmobs.toml"
+          }
+        },
+        {
+          "id": "appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1361,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/appleskin-client.toml",
+            "MD5": "999dd7d912a7eb915c59b1025710ca12",
+            "path": "config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "balm-common.toml",
+          "name": "balm-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 553,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/balm-common.toml",
+            "MD5": "bcb937860bc4782a1532a5bc3aead312",
+            "path": "config/balm-common.toml"
+          }
+        },
+        {
+          "id": "camera-client.toml",
+          "name": "camera-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/camera-client.toml",
+            "MD5": "71956bda8dbc40642cf44ef7e5d881e0",
+            "path": "config/camera-client.toml"
+          }
+        },
+        {
+          "id": "cfm-client.toml",
+          "name": "cfm-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 190,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/cfm-client.toml",
+            "MD5": "7fa57b2ec3af27c80b00b56b1fac740b",
+            "path": "config/cfm-client.toml"
+          }
+        },
+        {
+          "id": "cfm-common.toml",
+          "name": "cfm-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/cfm-common.toml",
+            "MD5": "0d385a1ecf645dda802350ffe3cb4bc4",
+            "path": "config/cfm-common.toml"
+          }
+        },
+        {
+          "id": "citadel-common.toml",
+          "name": "citadel-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 648,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/citadel-common.toml",
+            "MD5": "f211eac94129201b25acdeee49218d43",
+            "path": "config/citadel-common.toml"
+          }
+        },
+        {
+          "id": "collective.json5",
+          "name": "collective.json5",
+          "type": "File",
+          "artifact": {
+            "size": 960,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/collective.json5",
+            "MD5": "0966eae411065e30c194c91f61d887d4",
+            "path": "config/collective.json5"
+          }
+        },
+        {
+          "id": "client.json5",
+          "name": "client.json5",
+          "type": "File",
+          "artifact": {
+            "size": 251,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/combatroll/client.json5",
+            "MD5": "c2a53d6d0b7c2805cd02bac9358c4912",
+            "path": "config/combatroll/client.json5"
+          }
+        },
+        {
+          "id": "enchantments.json",
+          "name": "enchantments.json",
+          "type": "File",
+          "artifact": {
+            "size": 396,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/combatroll/enchantments.json",
+            "MD5": "ed7335d512cc2b9cf16bb5b5c057fb82",
+            "path": "config/combatroll/enchantments.json"
+          }
+        },
+        {
+          "id": "hud_config.json",
+          "name": "hud_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/combatroll/hud_config.json",
+            "MD5": "d4be667ade47464cf038ef4d20840b8e",
+            "path": "config/combatroll/hud_config.json"
+          }
+        },
+        {
+          "id": "server.json5",
+          "name": "server.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1280,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/combatroll/server.json5",
+            "MD5": "0be540dcb7e363dca4dea7f2354ca8d6",
+            "path": "config/combatroll/server.json5"
+          }
+        },
+        {
+          "id": "create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4920,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/create-client.toml",
+            "MD5": "bc6050e7b6ced685d1ab30bff4955ed8",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/create-common.toml",
+            "MD5": "7503e1571dd136604d3a78582d1a6cb0",
+            "path": "config/create-common.toml"
+          }
+        },
+        {
+          "id": "creeperoverhaul.jsonc",
+          "name": "creeperoverhaul.jsonc",
+          "type": "File",
+          "artifact": {
+            "size": 1850,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/creeperoverhaul.jsonc",
+            "MD5": "833f6e8b41210e3c2c564ce2c48b2658",
+            "path": "config/creeperoverhaul.jsonc"
+          }
+        },
+        {
+          "id": "croptopia-common.toml",
+          "name": "croptopia-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 10915,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/croptopia-common.toml",
+            "MD5": "c6a873987adc82dac9faf3b8b2106893",
+            "path": "config/croptopia-common.toml"
+          }
+        },
+        {
+          "id": "dynview-common.toml",
+          "name": "dynview-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1269,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/dynview-common.toml",
+            "MD5": "d893e6323dc94c14357c55df0fdf3afe",
+            "path": "config/dynview-common.toml"
+          }
+        },
+        {
+          "id": "emotecraft.json",
+          "name": "emotecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 647,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/emotecraft.json",
+            "MD5": "69f239dffd22a7ad53e6bbc3da08f50d",
+            "path": "config/emotecraft.json"
+          }
+        },
+        {
+          "id": "emotecraft_emote_map.json",
+          "name": "emotecraft_emote_map.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/emotecraft_emote_map.json",
+            "MD5": "fdcffe9e7eaa4949ee1d33d613a7c2eb",
+            "path": "config/emotecraft_emote_map.json"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1634,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/config.txt",
+            "MD5": "f987417f8fad4075499caf4d10e99320",
+            "path": "config/fancymenu/config.txt"
+          }
+        },
+        {
+          "id": "customizablemenus.txt",
+          "name": "customizablemenus.txt",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/customizablemenus.txt",
+            "MD5": "54eba5bb80ad0a98a4495746d0d06243",
+            "path": "config/fancymenu/customizablemenus.txt"
+          }
+        },
+        {
+          "id": "zcmcs_echap.txt",
+          "name": "zcmcs_echap.txt",
+          "type": "File",
+          "artifact": {
+            "size": 2021,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/customization/zcmcs_echap.txt",
+            "MD5": "891159f775db12f0a4e80a8c9dd373cd",
+            "path": "config/fancymenu/customization/zcmcs_echap.txt"
+          }
+        },
+        {
+          "id": "zcmcs_layout.txt",
+          "name": "zcmcs_layout.txt",
+          "type": "File",
+          "artifact": {
+            "size": 4670,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/customization/zcmcs_layout.txt",
+            "MD5": "0a74a3049c76f5c022e3aa4235bd0b8e",
+            "path": "config/fancymenu/customization/zcmcs_layout.txt"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 27376,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/de_de.local",
+            "MD5": "f43e602abc1b3081611a3ee39efa0bdd",
+            "path": "config/fancymenu/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 114417,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/en_us.local",
+            "MD5": "37d24e28dc6e1027ef40720d8b629033",
+            "path": "config/fancymenu/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 13858,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/pl_pl.local",
+            "MD5": "22c68afab02c97f21832b904a5e4413c",
+            "path": "config/fancymenu/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 14283,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/pt_br.local",
+            "MD5": "9a91316e7c6e61a7a1e0874f34f77482",
+            "path": "config/fancymenu/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "ru_ru.local",
+          "name": "ru_ru.local",
+          "type": "File",
+          "artifact": {
+            "size": 155574,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/ru_ru.local",
+            "MD5": "06d4d09969aa81e24ad92ab8d00b178c",
+            "path": "config/fancymenu/locals/ru_ru.local"
+          }
+        },
+        {
+          "id": "uk_ua.local",
+          "name": "uk_ua.local",
+          "type": "File",
+          "artifact": {
+            "size": 147984,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/uk_ua.local",
+            "MD5": "617020e85943f6f8e44662d128945f46",
+            "path": "config/fancymenu/locals/uk_ua.local"
+          }
+        },
+        {
+          "id": "zh_cn.local",
+          "name": "zh_cn.local",
+          "type": "File",
+          "artifact": {
+            "size": 52106,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/locals/zh_cn.local",
+            "MD5": "20a74fbf1560def5e5528b78fb30fbfe",
+            "path": "config/fancymenu/locals/zh_cn.local"
+          }
+        },
+        {
+          "id": "menu_identifiers.db",
+          "name": "menu_identifiers.db",
+          "type": "File",
+          "artifact": {
+            "size": 10497,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/menu_identifiers.db",
+            "MD5": "7ea7268db5d58f0ed6b4ffe8bec943b9",
+            "path": "config/fancymenu/menu_identifiers.db"
+          }
+        },
+        {
+          "id": "zcmcs2083.png",
+          "name": "zcmcs2083.png",
+          "type": "File",
+          "artifact": {
+            "size": 2037807,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/pictures/zcmcs2083.png",
+            "MD5": "104c2cdb0ca51bc03dc9ae73ee02ba7d",
+            "path": "config/fancymenu/pictures/zcmcs2083.png"
+          }
+        },
+        {
+          "id": "image_1.jpg",
+          "name": "image_1.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 185528,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/slideshows/background/images/image_1.jpg",
+            "MD5": "a69a43647ca9cc6d34ecc0209bfba590",
+            "path": "config/fancymenu/slideshows/background/images/image_1.jpg"
+          }
+        },
+        {
+          "id": "image_2.jpg",
+          "name": "image_2.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 137486,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/slideshows/background/images/image_2.jpg",
+            "MD5": "40d13fc27e4d6fa2d456d226c58824ec",
+            "path": "config/fancymenu/slideshows/background/images/image_2.jpg"
+          }
+        },
+        {
+          "id": "image_3.jpg",
+          "name": "image_3.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 248303,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/slideshows/background/images/image_3.jpg",
+            "MD5": "2faae81920acfe5cbc7e31916962575b",
+            "path": "config/fancymenu/slideshows/background/images/image_3.jpg"
+          }
+        },
+        {
+          "id": "image_4.jpg",
+          "name": "image_4.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 588093,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/slideshows/background/images/image_4.jpg",
+            "MD5": "7af0a840e7818e196228168f50cadb6c",
+            "path": "config/fancymenu/slideshows/background/images/image_4.jpg"
+          }
+        },
+        {
+          "id": "image_5.jpg",
+          "name": "image_5.jpg",
+          "type": "File",
+          "artifact": {
+            "size": 975992,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/slideshows/background/images/image_5.jpg",
+            "MD5": "043c4d2b28397d5135b7d6c1b00cee5a",
+            "path": "config/fancymenu/slideshows/background/images/image_5.jpg"
+          }
+        },
+        {
+          "id": "properties.txt",
+          "name": "properties.txt",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/slideshows/background/properties.txt",
+            "MD5": "283555d5f3f441eca2c9b859ec733824",
+            "path": "config/fancymenu/slideshows/background/properties.txt"
+          }
+        },
+        {
+          "id": "user_variables.db",
+          "name": "user_variables.db",
+          "type": "File",
+          "artifact": {
+            "size": 40,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fancymenu/user_variables.db",
+            "MD5": "eec0f310caf96daa823c26b23cdc031a",
+            "path": "config/fancymenu/user_variables.db"
+          }
+        },
+        {
+          "id": "farmersdelight-client.toml",
+          "name": "farmersdelight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/farmersdelight-client.toml",
+            "MD5": "b00b8b023174e9f208b0a7649c87ad7b",
+            "path": "config/farmersdelight-client.toml"
+          }
+        },
+        {
+          "id": "farmersdelight-common.toml",
+          "name": "farmersdelight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4425,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/farmersdelight-common.toml",
+            "MD5": "2bc1ea7735b59593a404ae54a4602a61",
+            "path": "config/farmersdelight-common.toml"
+          }
+        },
+        {
+          "id": "ferritecore-mixin.toml",
+          "name": "ferritecore-mixin.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1516,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/ferritecore-mixin.toml",
+            "MD5": "ab9006eb6d50292a11f757c0ae658ac0",
+            "path": "config/ferritecore-mixin.toml"
+          }
+        },
+        {
+          "id": "flywheel-client.toml",
+          "name": "flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 274,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/flywheel-client.toml",
+            "MD5": "7deb8231cf3b6d45def6a5b7a3c032fd",
+            "path": "config/flywheel-client.toml"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 886,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/fml.toml",
+            "MD5": "1dded416906c0647c9fcc83b3fc73b6c",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1399,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/forge-client.toml",
+            "MD5": "17ce4f44d2b8e9186512d7bc94501b18",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "framedblocks-client.toml",
+          "name": "framedblocks-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4115,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/framedblocks-client.toml",
+            "MD5": "0aa50ea01b91e6d8203b678792f31e0b",
+            "path": "config/framedblocks-client.toml"
+          }
+        },
+        {
+          "id": "framedblocks-common.toml",
+          "name": "framedblocks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/framedblocks-common.toml",
+            "MD5": "59f5b2c49335c3e38fc73a45f04d7a1a",
+            "path": "config/framedblocks-common.toml"
+          }
+        },
+        {
+          "id": "immersive_aircraft.json",
+          "name": "immersive_aircraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 833,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/immersive_aircraft.json",
+            "MD5": "7ba7452f04938a18414838c170c1e77d",
+            "path": "config/immersive_aircraft.json"
+          }
+        },
+        {
+          "id": "immersive_armors.json",
+          "name": "immersive_armors.json",
+          "type": "File",
+          "artifact": {
+            "size": 458,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/immersive_armors.json",
+            "MD5": "eb14f2c3cef084b3fd6062684c83340c",
+            "path": "config/immersive_armors.json"
+          }
+        },
+        {
+          "id": "hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jade/hide-blocks.json",
+            "MD5": "96a520226b75288fb7bcacc90ef64579",
+            "path": "config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 309,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jade/hide-entities.json",
+            "MD5": "352007cefa34b15aa3f1068475ec87cc",
+            "path": "config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 943,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jade/jade.json",
+            "MD5": "020e0425316d0c932c659375774a9d5a",
+            "path": "config/jade/jade.json"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 2261,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jade/plugins.json",
+            "MD5": "59338d23b89e778f331ce5376ff60298",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 3764,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jade/sort-order.json",
+            "MD5": "b265a8dd1ee3c1fb63311377e49bc910",
+            "path": "config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "jeed-client.toml",
+          "name": "jeed-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 536,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jeed-client.toml",
+            "MD5": "9812ad6369c005325cad852e9da67427",
+            "path": "config/jeed-client.toml"
+          }
+        },
+        {
+          "id": "blacklist.cfg",
+          "name": "blacklist.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/blacklist.cfg",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/jei/blacklist.cfg"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 542,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/ingredient-list-mod-sort-order.ini",
+            "MD5": "05ad0ed6cd32293bff1d1b1206ed6782",
+            "path": "config/jei/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/ingredient-list-type-sort-order.ini",
+            "MD5": "31cf67977474a0de4d685e4c2f31cce7",
+            "path": "config/jei/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 4701,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/jei-client.ini",
+            "MD5": "0a0669eaee6531aac9476853cbe5f3ab",
+            "path": "config/jei/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1337,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/jei-colors.ini",
+            "MD5": "a23718add9e4884ca9d259aedd73161b",
+            "path": "config/jei/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 245,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/jei-debug.ini",
+            "MD5": "93e6df80ab4be396571f42debfbd14b7",
+            "path": "config/jei/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 416,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/jei-mod-id-format.ini",
+            "MD5": "d9df39bf869d7344ef78697b986e3b05",
+            "path": "config/jei/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1346,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jei/recipe-category-sort-order.ini",
+            "MD5": "7ceed182953b2b18aa9e78c230f4d759",
+            "path": "config/jei/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "jeresources-common.toml",
+          "name": "jeresources-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jeresources-common.toml",
+            "MD5": "b8403bd156cd5a1adbeca3850c42384f",
+            "path": "config/jeresources-common.toml"
+          }
+        },
+        {
+          "id": "jeresources.toml",
+          "name": "jeresources.toml",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/jeresources.toml",
+            "MD5": "832deacf307999a65c4a3bc40ab0dfa7",
+            "path": "config/jeresources.toml"
+          }
+        },
+        {
+          "id": "justenoughbreeding-client.toml",
+          "name": "justenoughbreeding-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 26305,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/justenoughbreeding-client.toml",
+            "MD5": "19a540f6c44be1a536b5f25b8ac2d6e5",
+            "path": "config/justenoughbreeding-client.toml"
+          }
+        },
+        {
+          "id": "config.txt",
+          "name": "config.txt",
+          "type": "File",
+          "artifact": {
+            "size": 781,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/justzoom/config.txt",
+            "MD5": "c9794f36172a734d2feb7ce0428e894b",
+            "path": "config/justzoom/config.txt"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "config.cfg",
+          "name": "config.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 79,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/loadmyresources/config.cfg",
+            "MD5": "d1d8051f7bab6317a6b749658580c4e3",
+            "path": "config/loadmyresources/config.cfg"
+          }
+        },
+        {
+          "id": "modernfix-common.toml",
+          "name": "modernfix-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/modernfix-common.toml",
+            "MD5": "1d50de2e9c0bda2952844de7a3306d10",
+            "path": "config/modernfix-common.toml"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4278,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/modernfix-mixins.properties",
+            "MD5": "085e315970b20b0ffb77f021dd8e42fa",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "modernlife-client.toml",
+          "name": "modernlife-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1642,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/modernlife-client.toml",
+            "MD5": "3b3fc3c3a4f478277f484c5aadf7beb0",
+            "path": "config/modernlife-client.toml"
+          }
+        },
+        {
+          "id": "modernlife-common.toml",
+          "name": "modernlife-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3169,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/modernlife-common.toml",
+            "MD5": "3a080c0e80b9a0b9a73ba5b17b48d058",
+            "path": "config/modernlife-common.toml"
+          }
+        },
+        {
+          "id": "moonlight-client.toml",
+          "name": "moonlight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 476,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/moonlight-client.toml",
+            "MD5": "377d3b0ecc829f4b268cbb7794f54f5a",
+            "path": "config/moonlight-client.toml"
+          }
+        },
+        {
+          "id": "oculus.properties",
+          "name": "oculus.properties",
+          "type": "File",
+          "artifact": {
+            "size": 285,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/oculus.properties",
+            "MD5": "e78916c75c87c4a2b8679c898e771edb",
+            "path": "config/oculus.properties"
+          }
+        },
+        {
+          "id": "orcz_config_0.0.6.json",
+          "name": "orcz_config_0.0.6.json",
+          "type": "File",
+          "artifact": {
+            "size": 766,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/orcz_config_0.0.6.json",
+            "MD5": "6e8fa794760b168d9212e6097f629ce2",
+            "path": "config/orcz_config_0.0.6.json"
+          }
+        },
+        {
+          "id": "paraglider-common.toml",
+          "name": "paraglider-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1336,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/paraglider-common.toml",
+            "MD5": "184a75c4d22e8ba337c028a0cca83581",
+            "path": "config/paraglider-common.toml"
+          }
+        },
+        {
+          "id": "paraglider-player-states.toml",
+          "name": "paraglider-player-states.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1526,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/paraglider-player-states.toml",
+            "MD5": "90799ba1a850ef497a417e174cb63af6",
+            "path": "config/paraglider-player-states.toml"
+          }
+        },
+        {
+          "id": "playerrevive-client.json",
+          "name": "playerrevive-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 131,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/playerrevive-client.json",
+            "MD5": "a3124ef28058a8afae83c56f160d237b",
+            "path": "config/playerrevive-client.json"
+          }
+        },
+        {
+          "id": "polymorph-integrations.toml",
+          "name": "polymorph-integrations.toml",
+          "type": "File",
+          "artifact": {
+            "size": 333,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/polymorph-integrations.toml",
+            "MD5": "aa4c6b2d063bdc397c20479114f8f0ba",
+            "path": "config/polymorph-integrations.toml"
+          }
+        },
+        {
+          "id": "resourceful-config-web.json",
+          "name": "resourceful-config-web.json",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/resourceful-config-web.json",
+            "MD5": "5a5f38fd397b174daecbad6c8f7c3e0c",
+            "path": "config/resourceful-config-web.json"
+          }
+        },
+        {
+          "id": "rightclickharvest.toml",
+          "name": "rightclickharvest.toml",
+          "type": "File",
+          "artifact": {
+            "size": 111,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/rightclickharvest.toml",
+            "MD5": "5f7a4e546fa7295a4fbc4c53e6ecb2d0",
+            "path": "config/rightclickharvest.toml"
+          }
+        },
+        {
+          "id": "rubidium-mixins.properties",
+          "name": "rubidium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/rubidium-mixins.properties",
+            "MD5": "13f433cb33f876d092096c11da58e2c1",
+            "path": "config/rubidium-mixins.properties"
+          }
+        },
+        {
+          "id": "rubidium-options.json",
+          "name": "rubidium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 586,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/rubidium-options.json",
+            "MD5": "7e998c22f8530ebba3a4cd970c96054c",
+            "path": "config/rubidium-options.json"
+          }
+        },
+        {
+          "id": "securitycraft-client.toml",
+          "name": "securitycraft-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 638,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/securitycraft-client.toml",
+            "MD5": "eab0f64be50e47d039dd90a355c56430",
+            "path": "config/securitycraft-client.toml"
+          }
+        },
+        {
+          "id": "ShieldExpansion-common.toml",
+          "name": "ShieldExpansion-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1135,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/ShieldExpansion-common.toml",
+            "MD5": "68a213db131cde315542dc83cd5e519c",
+            "path": "config/ShieldExpansion-common.toml"
+          }
+        },
+        {
+          "id": "signpost-client.toml",
+          "name": "signpost-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 739,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/signpost-client.toml",
+            "MD5": "6f800bcc65c3de1be2b3f85e3f3e68f2",
+            "path": "config/signpost-client.toml"
+          }
+        },
+        {
+          "id": "signpost-common.toml",
+          "name": "signpost-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2793,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/signpost-common.toml",
+            "MD5": "b119779bc0943a67a29d83903ed81327",
+            "path": "config/signpost-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-common.toml",
+          "name": "sophisticatedbackpacks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sophisticatedbackpacks-common.toml",
+            "MD5": "2c6eb54ca9cb7722ec68ffc73667b88b",
+            "path": "config/sophisticatedbackpacks-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-client.toml",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 351,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sophisticatedcore-client.toml",
+            "MD5": "154bd9cf14a45c6aa007cb5467f1a454",
+            "path": "config/sophisticatedcore-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2834,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sophisticatedcore-common.toml",
+            "MD5": "10c5babdb69c2ab87d0fc4ea866d52f8",
+            "path": "config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "allowed_sounds.properties",
+          "name": "allowed_sounds.properties",
+          "type": "File",
+          "artifact": {
+            "size": 76857,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sound_physics_remastered/allowed_sounds.properties",
+            "MD5": "f194afd409c136cb202d5b9475536435",
+            "path": "config/sound_physics_remastered/allowed_sounds.properties"
+          }
+        },
+        {
+          "id": "occlusion.properties",
+          "name": "occlusion.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4710,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
+            "MD5": "f5118bac847d83cc153d7bd3138ef77d",
+            "path": "config/sound_physics_remastered/occlusion.properties"
+          }
+        },
+        {
+          "id": "reflectivity.properties",
+          "name": "reflectivity.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4713,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
+            "MD5": "43008819f17f71b1232a7732989d5365",
+            "path": "config/sound_physics_remastered/reflectivity.properties"
+          }
+        },
+        {
+          "id": "soundphysics.properties",
+          "name": "soundphysics.properties",
+          "type": "File",
+          "artifact": {
+            "size": 4215,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sound_physics_remastered/soundphysics.properties",
+            "MD5": "42009e840c84f699874e40f170010c57",
+            "path": "config/sound_physics_remastered/soundphysics.properties"
+          }
+        },
+        {
+          "id": "supplementaries-client.toml",
+          "name": "supplementaries-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9684,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/supplementaries-client.toml",
+            "MD5": "0b40b1f9450056077584f3da76ef1659",
+            "path": "config/supplementaries-client.toml"
+          }
+        },
+        {
+          "id": "supplementaries-common.toml",
+          "name": "supplementaries-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 21049,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/supplementaries-common.toml",
+            "MD5": "1549bcbdf670b07234c2b50341d8bb50",
+            "path": "config/supplementaries-common.toml"
+          }
+        },
+        {
+          "id": "trashslot-common.toml",
+          "name": "trashslot-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/trashslot-common.toml",
+            "MD5": "964f9f8d5bed58ca6afe034f514dc237",
+            "path": "config/trashslot-common.toml"
+          }
+        },
+        {
+          "id": "untamedwilds-common.toml",
+          "name": "untamedwilds-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6507,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/untamedwilds-common.toml",
+            "MD5": "ffc77350fe7807517756abbda0f23076",
+            "path": "config/untamedwilds-common.toml"
+          }
+        },
+        {
+          "id": "loading.gif",
+          "name": "loading.gif",
+          "type": "File",
+          "artifact": {
+            "size": 67758,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/watermedia/assets/loading.gif",
+            "MD5": "30edfee6c054a4e6d37c900541e0b139",
+            "path": "config/watermedia/assets/loading.gif"
+          }
+        },
+        {
+          "id": "waystones-common.toml",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7824,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/waystones-common.toml",
+            "MD5": "26cb3ddedb61b9ee8fd57394c9cdf3cc",
+            "path": "config/waystones-common.toml"
+          }
+        },
+        {
+          "id": "last_world.fmdata",
+          "name": "last_world.fmdata",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/fancymenu_data/last_world.fmdata",
+            "MD5": "b8e37837514f2c78679bbc09b18c9754",
+            "path": "fancymenu_data/last_world.fmdata"
+          }
+        },
+        {
+          "id": "Eclectic_Sounds-R1.10_(420).zip",
+          "name": "Eclectic_Sounds-R1.10_(420).zip",
+          "type": "File",
+          "artifact": {
+            "size": 4885711,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/Eclectic_Sounds-R1.10_(420).zip",
+            "MD5": "54c591e1625e495febb9626247ae9473",
+            "path": "resourcepacks/Eclectic_Sounds-R1.10_(420).zip"
+          }
+        },
+        {
+          "id": "FaithfulPBR_128_1.0p.zip",
+          "name": "FaithfulPBR_128_1.0p.zip",
+          "type": "File",
+          "artifact": {
+            "size": 7904674,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/FaithfulPBR_128_1.0p.zip",
+            "MD5": "89c30e64663c35a584829c27639b0c3b",
+            "path": "resourcepacks/FaithfulPBR_128_1.0p.zip"
+          }
+        },
+        {
+          "id": "SE Vanilla Consistency 1.20.1.zip",
+          "name": "SE Vanilla Consistency 1.20.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 85743,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/SE%20Vanilla%20Consistency%201.20.1.zip",
+            "MD5": "1854be09b2efc0f1a592e2c9b7c28f9c",
+            "path": "resourcepacks/SE Vanilla Consistency 1.20.1.zip"
+          }
+        },
+        {
+          "id": "smootherfont.zip",
+          "name": "smootherfont.zip",
+          "type": "File",
+          "artifact": {
+            "size": 110032,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/smootherfont.zip",
+            "MD5": "42294fd23b8a2b0039c38323360ff5b8",
+            "path": "resourcepacks/smootherfont.zip"
+          }
+        },
+        {
+          "id": "tectonic-datapack-v2.1.1b.zip",
+          "name": "tectonic-datapack-v2.1.1b.zip",
+          "type": "File",
+          "artifact": {
+            "size": 121351,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/tectonic-datapack-v2.1.1b.zip",
+            "MD5": "769f2184cba4114def671c12e65956a1",
+            "path": "resourcepacks/tectonic-datapack-v2.1.1b.zip"
+          }
+        },
+        {
+          "id": "terratonic-datapack-mc1.19+-v3.0.1.zip",
+          "name": "terratonic-datapack-mc1.19+-v3.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 90895,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/terratonic-datapack-mc1.19+-v3.0.1.zip",
+            "MD5": "e8b2b90a356a0f6027b48d8a3841ba0c",
+            "path": "resourcepacks/terratonic-datapack-mc1.19+-v3.0.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.0.1.zip",
+          "name": "ComplementaryUnbound_r5.0.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 402258,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.1.zip",
+            "MD5": "db6cac5a85b9dd9ea7fab453773aae40",
+            "path": "shaderpacks/ComplementaryUnbound_r5.0.1.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.0.1.zip.txt",
+          "name": "ComplementaryUnbound_r5.0.1.zip.txt",
+          "type": "File",
+          "artifact": {
+            "size": 305,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt",
+            "MD5": "a2344a3e81fa4d207391cd37cd6e50df",
+            "path": "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
           }
         }
       ]
