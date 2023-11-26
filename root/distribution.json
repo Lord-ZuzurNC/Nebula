@@ -2210,7 +2210,7 @@
           "artifact": {
             "size": 36459,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/alexsmobs.toml",
-            "MD5": "143196c43f5e5ced6052971c417e0c50",
+            "MD5": "99bd1937dfe6a452d96f01a41cec38cf",
             "path": "config/alexsmobs.toml"
           }
         },
@@ -3022,9 +3022,9 @@
           "name": "modernlife-client.toml",
           "type": "File",
           "artifact": {
-            "size": 1642,
+            "size": 1641,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/modernlife-client.toml",
-            "MD5": "3b3fc3c3a4f478277f484c5aadf7beb0",
+            "MD5": "c5ec7b5129d73f2afac023fd534ed453",
             "path": "config/modernlife-client.toml"
           }
         },
@@ -3057,7 +3057,7 @@
           "artifact": {
             "size": 285,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/oculus.properties",
-            "MD5": "e78916c75c87c4a2b8679c898e771edb",
+            "MD5": "28cf8faee1333cbc85c003caae8f5b79",
             "path": "config/oculus.properties"
           }
         },
@@ -3176,9 +3176,9 @@
           "name": "ShieldExpansion-common.toml",
           "type": "File",
           "artifact": {
-            "size": 1135,
+            "size": 1133,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/ShieldExpansion-common.toml",
-            "MD5": "68a213db131cde315542dc83cd5e519c",
+            "MD5": "5f253c71eaadf32b75cdae3ad173b601",
             "path": "config/ShieldExpansion-common.toml"
           }
         },
@@ -3255,7 +3255,7 @@
           "artifact": {
             "size": 4710,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sound_physics_remastered/occlusion.properties",
-            "MD5": "f5118bac847d83cc153d7bd3138ef77d",
+            "MD5": "cd1da5e34486294d4ffdf6f4fe6a5135",
             "path": "config/sound_physics_remastered/occlusion.properties"
           }
         },
@@ -3266,7 +3266,7 @@
           "artifact": {
             "size": 4713,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/config/sound_physics_remastered/reflectivity.properties",
-            "MD5": "43008819f17f71b1232a7732989d5365",
+            "MD5": "358678c391d45055df4855b868c7a315",
             "path": "config/sound_physics_remastered/reflectivity.properties"
           }
         },
@@ -3392,14 +3392,14 @@
           }
         },
         {
-          "id": "smootherfont.zip",
-          "name": "smootherfont.zip",
+          "id": "SmoothFont_1.20.zip",
+          "name": "SmoothFont_1.20.zip",
           "type": "File",
           "artifact": {
-            "size": 110032,
-            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/smootherfont.zip",
-            "MD5": "42294fd23b8a2b0039c38323360ff5b8",
-            "path": "resourcepacks/smootherfont.zip"
+            "size": 70794,
+            "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/resourcepacks/SmoothFont_1.20.zip",
+            "MD5": "f0d783b59bfdfff1e6853d1ac9c1e5db",
+            "path": "resourcepacks/SmoothFont_1.20.zip"
           }
         },
         {
@@ -3442,7 +3442,7 @@
           "artifact": {
             "size": 305,
             "url": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt",
-            "MD5": "a2344a3e81fa4d207391cd37cd6e50df",
+            "MD5": "c678005809a1f85211107a8466dd1422",
             "path": "shaderpacks/ComplementaryUnbound_r5.0.1.zip.txt"
           }
         }
