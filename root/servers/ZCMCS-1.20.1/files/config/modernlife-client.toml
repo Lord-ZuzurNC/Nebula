@@ -31,7 +31,7 @@
 
 	[client.alarm_clock]
 		#Enables 24-hour mode for alarm clock (no AM/PM)
-		clock24HoursMode = false
+		clock24HoursMode = true
 		#Enables alarm clock moon indicator (shows when you can sleep)
 		moonIndicator = true
 		#Alarm clock text color (R value in RGB)
