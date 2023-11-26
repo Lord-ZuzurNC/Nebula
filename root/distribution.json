@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.1.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -12,7 +12,7 @@
       "name": "ZCMCS (Minecraft 1.20.1)",
       "description": "ZCMCS Running Minecraft 1.20.1 (Forge v47.2.0)",
       "icon": "https://file.zcastle.nexus/servers/ZCMCS-1.20.1/ZCMCS.png",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "address": "minecraft.zcastle.nexus:25565",
       "minecraftVersion": "1.20.1",
       "discord": {
